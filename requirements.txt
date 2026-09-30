@@ -1,0 +1,7 @@
+ultralytics>=8.3.0
+torchvision
+pillow
+fastapi>=0.115
+uvicorn[standard]
+python-multipart
+requests
